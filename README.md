@@ -1,2 +1,2 @@
-# musys
-GUI for MEMS multiphysics software 
+# microsys
+UI for MEMS multiphysics software 
